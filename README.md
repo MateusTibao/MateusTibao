@@ -21,7 +21,7 @@ experiences = [
 ```python
 thanks_message = """
 Thank you for visiting my profile! I appreciate your time and interest. 
-Feel free to explore my projects
+Feel free to explore my projects.
 """
 print(name)
 print("Experiences:")

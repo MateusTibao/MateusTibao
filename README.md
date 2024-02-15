@@ -2,9 +2,9 @@
 
 ```python
 name = "Mateus Tibão"
-experiences = [
+bio = [
   "Degree in Software Engineering at FIAP"
-  "IT Trainne in ABC Brasil"
+  "IT Trainee in ABC Brasil"
 ]
 ```
 
